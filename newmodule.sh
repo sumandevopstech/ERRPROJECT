@@ -14,5 +14,3 @@ addded in master
 added in masterss (new error resolved)
 
 to test the fetch
-
-to test the pull
